@@ -1,0 +1,22 @@
+# Python
+
+**pycache**/
+_.py[cod]
+_.egg-info/
+.env
+
+# Jupyter
+
+.ipynb_checkpoints/
+\*/.ipynb_checkpoints/
+
+# Dataset (trop lourd pour GitHub)
+
+neu-surface-defect-database/
+_.h5
+_.keras
+
+# OS
+
+.DS_Store
+Thumbs.db
